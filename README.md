@@ -1,5 +1,5 @@
 # CASE-004 — Tunneling in Plain Sight: Detecting DNS C2 with Zeek and Splunk
-
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen) ![Tools](https://img.shields.io/badge/Tools-dnscat2%20|%20Zeek%20|%20Splunk-blue) ![Platform](https://img.shields.io/badge/Platform-VirtualBox-orange) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Mapped-red)
 ## What This Lab Is About
 
 I built this lab to simulate a real DNS tunneling attack and then catch it using behavioral detections in Splunk. The goal was to understand not just how dnscat2 works, but what it looks like on the wire — and how to write detections that would catch it regardless of how an attacker deployed it.
