@@ -1,5 +1,5 @@
 # CASE-004 Extension — Detecting Meterpreter HTTPS C2 with Zeek and Splunk
-
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen) ![Tools](https://img.shields.io/badge/Tools-Metasploit%20|%20Meterpreter%20|%20Zeek%20|%20Splunk-blue) ![Platform](https://img.shields.io/badge/Platform-VirtualBox-orange) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Mapped-red)
 ## What I Was Trying to Answer
 
 After finishing the DNS tunneling lab I kept thinking about one thing: DNS tunneling has obvious signals — unusual record types, encoded query names, high query volume. Those signals exist because DNS isn't designed to carry payload data, so the abuse sticks out.
