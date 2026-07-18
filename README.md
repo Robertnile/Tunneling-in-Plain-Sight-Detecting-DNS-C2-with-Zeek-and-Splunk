@@ -243,7 +243,7 @@ Signature-based detection can be evaded. Behavior is much harder to hide.
 
 ---
 
-[Full Technical Report (PDF)](./CASE-004_Technical_Report.pdf)
+[Full Technical Report (PDF)](CASE-004_Technical_Report.pdf)
 
 ## Files
 
